@@ -8,9 +8,12 @@
 |Name   |Yoshitaka Honda                            |
 |Twitter|[@y_honda_](https://twitter.com/y_honda_)  |
 |Qiita|[@hondaYoshitaka](https://qiita.com/hondaYoshitaka)  |
+|SlideShare|[@yoshitakahond](https://www.slideshare.net/yoshitakahonda)  |
 
 ## スキル
-### 自然言語
+2019年7月時点でのスキルを記載しています。
+
+#### 自然言語
 
 |名称      |レベル     |概要・経験 |
 |:--------|:---------|:---------|
@@ -31,62 +34,126 @@
 |Swift|2ヶ月|・PoC案件にてiOSアプリへの小さな機能を追加|
 |C|4年|・大学在学中のみ<br/>・実務経験なし|
 
-※ 2019年7月時点
-
 #### IaS
 
 |名称      |期間       |概要・経験 |
 |:--------|:---------|:---------|
-|Terraform|2ヶ月|・AWSインフラ構築のために使用|
+|Ansible|2ヶ月|・社内インフラ構築のために使用|
+|Terraform|2ヶ月|・AWSインフラ構築|
 
-※ 2019年7月時点
+#### フレームワーク
 
-### フレームワーク
+##### フロントエンド
 
-- Spring Boot
+|名称      |期間       |概要・経験 |
+|:--------|:---------|:---------|
+|jQuery|3年|・社内システムの開発|
+|React|1年|・スタートアップのPoC開発<br/>・状態管理にReduxを使用<br/>・その他、周辺ライブラリとの組み合わせ|
+|Vue.js|1ヶ月|・学習のため独学でツールを作成|
 
 
-### その他
+##### バックエンド
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+|名称      |期間       |概要・経験 |
+|:--------|:---------|:---------|
+|Seasar2|3年|・社内システムの開発|
+|Spring Boot|3年|・業務にてメイン言語として使用で経験豊富|
 
-## 強み
+#### その他
+言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
 
-## やったことはないが興味があるもの
+##### 開発手法
+
+|名称      |期間       |概要・経験 |
+|:--------|:---------|:---------|
+|Terraform|2ヶ月|・AWSインフラ構築|
+|Ansible|2ヶ月|・社内インフラ構築のために使用<br/>・１からの作成ではなく、保守開発/メンテナンスを実施|
+
 
 ## 職務経歴
 
-### yyyy/mm - 現在 : 会社名
+### 2011/04 - 現在 : TIS株式会社 	
 
-職務: Webアプリケーションエンジニア（例）
+#### 職務内容
 
-#### 職務内容の名前（レストラン検索とか）
+##### 2011/11 - 2013/11 : 某百貨店向けタブレット入会システム
+職務: Front/Backend Engineer
 
-- 職務内容の詳細を箇条書きでかく
+- JQuery Mobile
+- Seasar2
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+##### 2013/12 - 2014/11 : 社内向けプロジェクト管理システム
+職務: Front/Backend Engineer
 
-職務: サーバーサイドエンジニア
+- Seasar2
 
-#### 職務内容の名前（レストラン検索とか）
+##### 2014/11 - 2016/06 : 某証券会社向けJava FXフレームワークの作成支援 
+職務: Front/Backend Engineer
 
-- 職務内容の詳細を箇条書きでかく
+- Java FX上でのフレームワークを作成、その後の開発支援
+- サーバサイドはJava EE7(Jersey) 
+
+##### 2015/09 - 2016/02 : インターン技術支援
+- [tiscon1｜GitHub](https://github.com/tiscon/tiscon1)
+
+##### 2016/06 - 2018/09 : 某広告メディア系会社 
+職務: Backend Engineer (Team Leader)
+
+- Spring Bootを使用したRestful APIの作成
+- 既存コードのリプレイスを行い, Microservice化を推進
+
+##### 2016/09 - 2017/02 : インターン技術支援
+- [tiscon2｜GitHub](https://github.com/tiscon/tiscon2)
+
+##### 2017/09 - 2018/02 : インターン技術支援
+- [tiscon3｜GitHub](https://github.com/tiscon/tiscon3)
+
+##### 2018/09 - 2019/02 : インターン技術支援
+- [tiscon4｜GitHub](https://github.com/tiscon/tiscon4)
+
+##### 2018/10 - 現在 : スタートアップ支援 
+職務: Full-Stack Engineer (Technical Leader)
+
+- Spring Bootを使用したRestful APIの作成
+- 既存コードのリプレイスを行い, Microservice化を推進
 
 ## 課外活動
 
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
- 
+#### 社外プロジェクト
+- ...
+
+#### 副業
+- ...
+
 ### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
+
+#### 社内勉強会
+- [Kubernetesのきほん](https://www.slideshare.net/yoshitakahonda/kubernetes-114176721)
+- etc.
+
+#### 結婚式（余興）
+- [夫婦の愛を支える技術](https://www.slideshare.net/yoshitakahonda/ss-69801308)
 
 ### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
+#### 社内
+- ...
 
 ### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+
+#### Qiita
+- [一つ上のチームメンバーのそだてかた](https://qiita.com/hondaYoshitaka/items/273f5e674fe3c1663a38)
+- [開発者の開発者による開発者のためのAgileドキュメンテーション](https://qiita.com/hondaYoshitaka/items/a4ecedb31388ea2f8455)
+- etc.
+
+#### Fintan.jp
+- [Android開発におけるモジュール化手法](https://fintan.jp/?p=1381)
+
+### 取得資格
+- 基本情報技術者試験
+- ORACLE MASTER Bronze
+
+## 強み
+TBD
+
+## やったことはないが興味があるもの
+TBD
