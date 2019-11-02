@@ -1,17 +1,29 @@
 職務経歴書
 --------------------------------------------------------
 
-## 基本情報
+## 職務経歴（概要）
+- Webアプリケーションの開発
+    - Javaのフレームワークを利用した設計および開発8年
+    - サーバサイドだけでなく、フロントエンドの設計および開発8年
+    - 最近ではインフラ設計も中心設計者として経験し、チーム内でのIaC化を実現
+    
+- チームビルディング/育成
+    - 新卒入社よりアジャイル型開発(Scrum)を8年
+        - 内、Scrum Masterとしての経験4年
+    - メンバーの納得感を重視したチーム上のアグリーメント形成
+    - 後輩のコーチング
+
+## 技術アカウント
 
 |key    |value                                      |
 |:------|:------------------------------------------|
-|Name   |Yoshitaka Honda                            |
+|GitHub|[@hondaYoshitaka](https://github.com/hondaYoshitaka)  |
 |Twitter|[@y_honda_](https://twitter.com/y_honda_)  |
 |Qiita|[@hondaYoshitaka](https://qiita.com/hondaYoshitaka)  |
 |SlideShare|[@yoshitakahond](https://www.slideshare.net/yoshitakahonda)  |
 
 ## スキル
-2019年7月時点でのスキルを記載しています。
+2019年11月時点でのスキルを記載しています。
 
 #### 自然言語
 
@@ -56,8 +68,9 @@
 
 |名称      |期間       |概要・経験 |
 |:--------|:---------|:---------|
-|Seasar2|3年|・社内システムの開発|
 |Spring Boot|3年|・業務にてメイン言語として使用で経験豊富|
+|Seasar2|3年|・社内システムの開発|
+|Jersey|1年|・|
 
 #### その他
 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
@@ -66,9 +79,45 @@
 
 |名称      |期間       |概要・経験 |
 |:--------|:---------|:---------|
-|Terraform|2ヶ月|・AWSインフラ構築|
+|Terraform|6ヶ月|・AWSインフラ構築|
 |Ansible|2ヶ月|・社内インフラ構築のために使用<br/>・１からの作成ではなく、保守開発/メンテナンスを実施|
 
+
+## 課外活動
+
+### 登壇
+#### [Technology & Innovations Developer Meetup#1](https://tidev-meetup.connpass.com/event/143231/)
+- [テクノロジー視点から考えるSIリーンスタートアップ](https://www.slideshare.net/yoshitakahonda/si-186706521)
+
+#### その他、小規模なもの
+
+##### 社内勉強会
+- [Kubernetesのきほん](https://www.slideshare.net/yoshitakahonda/kubernetes-114176721)
+
+##### 結婚式（余興）
+- [夫婦の愛を支える技術](https://www.slideshare.net/yoshitakahonda/ss-69801308)
+
+### 執筆歴
+#### Qiita
+- [一つ上のチームメンバーのそだてかた](https://qiita.com/hondaYoshitaka/items/273f5e674fe3c1663a38)
+- [開発者の開発者による開発者のためのAgileドキュメンテーション](https://qiita.com/hondaYoshitaka/items/a4ecedb31388ea2f8455)
+
+その他、チーム開発やJavaを中心に数本。
+
+#### Fintan.jp
+- [Android開発におけるモジュール化手法](https://fintan.jp/?p=1381)
+
+### OB訪問
+#### Matcher
+- [本多 良隆さんのプロフィール | Matcher（マッチャー）](https://matcher.jp/obogs/49320a8fb447)
+
+#### 副業
+- 動画マーケティング会社
+    - 管理者WEBシステムの構築
+        - Ruby
+        - Ruby on Rails
+    - VAST動画広告のフロントエンドライブラリ作成
+        - TypeScript
 
 ## 職務経歴
 
@@ -76,84 +125,78 @@
 
 #### 職務内容
 
-##### 2011/11 - 2013/11 : 某百貨店向けタブレット入会システム
-職務: Front/Backend Engineer
+##### 2018/10 - 現在 : スタートアップスタジオ
+スタートアップ企業、フリーランス、社内起業家など組織・人材のビジネスアイデアを具現化するためのオープンイノベーション・プラットフォーム「[U-Studio](https://incubation.tokyo/u-studio/)」の開発チーム
 
-- JQuery Mobile
-- Seasar2
+職務: Full-Stack Engineer (Technical Leader)
 
-##### 2013/12 - 2014/11 : 社内向けプロジェクト管理システム
-職務: Front/Backend Engineer
+###### T社
+BtoBのマッチングに関するWEBアプリケーション
 
-- Seasar2
+- AWSマネージドサービスを積極的に利用したMVPアプリケーションの設計・開発
+- React x Springを用いたSPAアプリケーション
+- DBスキーマの設計と作成
+- TerraformによるIaC化
+
+##### 2018/09 - 2019/02 : インターン技術支援
+インターン [tiscon4｜GitHub](https://github.com/tiscon/tiscon4)
+
+職務: 技術全般の主担当、プロジェクト運営のアドバイザー
+
+- 技術課題の策定と開発
+- 運営チームのスクラム支援
+- インターン当日の学生TA
+
+##### 2017/09 - 2018/02 : インターン技術支援
+インターン [tiscon3｜GitHub](https://github.com/tiscon/tiscon3)
+
+職務: 技術全般の主担当、プロジェクト運営のアドバイザー
+
+- 技術課題の策定と開発
+- 運営チームのスクラム支援
+- インターン当日の学生TA
+
+##### 2016/09 - 2017/02 : インターン技術支援
+インターン [tiscon2｜GitHub](https://github.com/tiscon/tiscon2)
+
+職務: 技術全般の主担当、プロジェクト運営のアドバイザー
+
+- 技術課題の策定と開発
+- 運営チームのスクラム支援
+- インターン当日の学生TA
+
+##### 2016/06 - 2018/09 : 某広告メディア系会社 
+職務: Backend Engineer (Team Member/Leader)
+
+- 巨大なモノリシックWebアプリケーションの一部をリプレイス
+    - リプレイス部はMicroserviceとして置き換え
+- Spring Bootを使用したRestful APIの作成
+
+##### 2015/09 - 2016/02 : インターン技術支援
+インターン [tiscon1｜GitHub](https://github.com/tiscon/tiscon1) 
+
+職務: 技術全般のアドバイザー
+
+- Springを用いたWebアプリケーションの設計方針のアドバイス
+- Frontendやデザインのアドバイス
 
 ##### 2014/11 - 2016/06 : 某証券会社向けJava FXフレームワークの作成支援 
 職務: Front/Backend Engineer
 
 - Java FX上でのフレームワークを作成、その後の開発支援
-- サーバサイドはJava EE7(Jersey) 
+- Java EE7(Jersey) によるPortal Webの作成
+- 並行して開発している他ベンダーとの技術窓口と要望対応
 
-##### 2015/09 - 2016/02 : インターン技術支援
-- [tiscon1｜GitHub](https://github.com/tiscon/tiscon1)
+##### 2013/12 - 2015/01 : 社内向けプロジェクト管理システム
+職務: Front/Backend Engineer
 
-##### 2016/06 - 2018/09 : 某広告メディア系会社 
-職務: Backend Engineer (Team Leader)
+- Seasar2を用いたWebアプリ設計と開発
+- DBスキーマの設計と作成
+- jQueryを用いたフロントエンドの設計と開発
+- UI/UXデザインの設計と作成
 
-- Spring Bootを使用したRestful APIの作成
-- 既存コードのリプレイスを行い, Microservice化を推進
+##### 2011/11 - 2013/11 : 某百貨店向けタブレット入会システム
+職務: Front/Backend Engineer
 
-##### 2016/09 - 2017/02 : インターン技術支援
-- [tiscon2｜GitHub](https://github.com/tiscon/tiscon2)
-
-##### 2017/09 - 2018/02 : インターン技術支援
-- [tiscon3｜GitHub](https://github.com/tiscon/tiscon3)
-
-##### 2018/09 - 2019/02 : インターン技術支援
-- [tiscon4｜GitHub](https://github.com/tiscon/tiscon4)
-
-##### 2018/10 - 現在 : スタートアップ支援 
-職務: Full-Stack Engineer (Technical Leader)
-
-- Spring Bootを使用したRestful APIの作成
-- 既存コードのリプレイスを行い, Microservice化を推進
-
-## 課外活動
-
-#### 社外プロジェクト
-- ...
-
-#### 副業
-- ...
-
-### 過去の登壇資料
-
-#### 社内勉強会
-- [Kubernetesのきほん](https://www.slideshare.net/yoshitakahonda/kubernetes-114176721)
-- etc.
-
-#### 結婚式（余興）
-- [夫婦の愛を支える技術](https://www.slideshare.net/yoshitakahonda/ss-69801308)
-
-### 受賞歴
-#### 社内
-- ...
-
-### 執筆歴
-
-#### Qiita
-- [一つ上のチームメンバーのそだてかた](https://qiita.com/hondaYoshitaka/items/273f5e674fe3c1663a38)
-- [開発者の開発者による開発者のためのAgileドキュメンテーション](https://qiita.com/hondaYoshitaka/items/a4ecedb31388ea2f8455)
-- etc.
-
-#### Fintan.jp
-- [Android開発におけるモジュール化手法](https://fintan.jp/?p=1381)
-
-### 取得資格
-- 基本情報技術者試験
-- ORACLE MASTER Bronze
-
-## 強み
-TBD
-
-## やったことはないが興味があるもの
-TBD
+- Seasar2を用いたWebアプリ開発
+- JQuery Mobileを用いたフロントエンドの開発
