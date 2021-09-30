@@ -1,9 +1,7 @@
 職務経歴書
 --------------------------------------------------------
 
-## 職務経歴（概要）
-
-xxxx
+date: yyyy/mm/dd
 
 ## 技術アカウント
 
@@ -15,7 +13,6 @@ xxxx
 |SlideShare|[@yoshitakahond](https://www.slideshare.net/yoshitakahonda)  |
 
 ## スキル
-2021/09 時点でのスキルを記載しています。
 
 - Webアプリケーションの開発
     - フレームワークを利用した設計および開発10年
@@ -104,38 +101,153 @@ xxxx
 #### Matcher
 - [本多 良隆さんのプロフィール | Matcher（マッチャー）](https://matcher.jp/obogs/49320a8fb447)
 
+---
 
 ## 職務経歴
 
-### 2021/04 - 現在 : 株式会社ユーザベース
+### ■ 2021/07 - 現在 (副業) : A社
 
-※ [FORCAS事業の統合](https://www.uzabase.com/jp/news/uzabase-forcas-initial-new-leaders/) により、開発チーム全体がユーザベースへ転籍
+#### 職務内容
+
+職務: Software Engineer / アジャイルコーチ
+
+##### 2021/07 - 現在 : データ売買 デスクトップアプリ
+
+分野間データ連携基盤の共通言語(プロトコル)を用いたデータ売買のデスクトップアプリ開発
+
+|領域|使用技術|バージョン|
+|:----|:----|:----|
+|Blockchain|Solidity|0.6.x|
+|Frontend|Electron|13.x|
+|Frontend|Next.js|11.1.x|
+
+- Frontend全般の構成管理やコンポーネント設計、実装
+- デザインのマークアップやインタラクションの実装
+- Blockchainとのつなぎ込み
+- プロジェクトへのアジャイルの部分適用
+
+### ■ 2021/04 - 現在 : 株式会社ユーザベース
+
+※ **転籍**: [FORCAS事業の統合](https://www.uzabase.com/jp/news/uzabase-forcas-initial-new-leaders/) により、開発チーム全体がユーザベースへ転籍
 
 #### 職務内容
 
 合併前から引き続き、B2Bに特化した顧客戦略プラットフォーム「 [FORCAS](https://www.forcas.com/overview/) 」のSaaS Product開発チーム
 
-##### 2021/04 - 2021/08  : [Salesforceレポート連携](https://www.uzabase.com/jp/news/forcas-salesforce-new-reportingfunction/)
+職務: Software Engineer / Lead
+
+- アジャイル型開発のプラクティスに基づいた取り組みの提案や実践
+- 企業文化であるペアプロ/TDDによる開発
+- 1on1 によるチームメンバーの目標設定や育成、コーチング
+
+##### 2021/04 - 2021/08 : [Salesforceレポート連携](https://www.uzabase.com/jp/news/forcas-salesforce-new-reportingfunction/)
+
+Salesforceレポートを、FORCASへ直接データ送信ができる連携機能
 
 |領域|使用技術|バージョン|
 |:----|:----|:----|
-|Frontend|React|16.x|
+|Salesforce Plugin (front)|[LWC](https://developer.salesforce.com/docs/component-library/documentation/ja-jp/lwc)|-|
+|Salesforce Plugin (server)|[Apex](https://developer.salesforce.com/docs/atlas.ja-jp.232.0.apexcode.meta/apexcode/apex_dev_guide.htm)|-|
 |Backend|Java|11|
-|〃|Spring Boot|2.2.x|
+|Backend|Kotlin|1.4.x|
+|Backend|Spring Boot|2.4.x|
+|Backend|Spring Batch|4.x|
+|Infra|Apache MSK|-|
 
-##### 2021/03 - 2021/06  : 顧客分析ダッシュボード
+- Salesforceの新機能「LWC」を用いたFrontendの設計・実装
+- Apache Kafkaのpub/subを用いた逐次的な業務フローの制御設計
 
-### 2020/03 - 2021/03 : 株式会社FORCAS
+##### 2021/03 - 2021/06 : 顧客分析ダッシュボード
+
+ターゲット顧客層ごとの戦略進捗を可視化するための機能
+
+|領域|使用技術|バージョン|
+|:----|:----|:----|
+|Frontend|Vue.js|2.6.x|
+|Backend|Java|11|
+|Backend|Kotlin|1.4.x|
+|Backend|Spring Boot|2.4.x|
+|Infra|Amazon Elasticsearch Service|-|
+
+- マイクロサービスにおける責務設計と、再利用性の高いREST APIの設計・実装
+- 負荷テスト（性能/ロングラン/負荷）による劣化検証とその評価
+
+
+### ■ 2020/03 - 2021/03 : 株式会社FORCAS
 
 #### 職務内容
 
 B2Bに特化した顧客戦略プラットフォーム「 [FORCAS](https://www.forcas.com/overview/) 」のSaaS Product開発チーム
 
-##### 2021/10 - 2021/12  : 企業データの拡充
+職務: Software Engineer / Lead
+
+- アジャイル型開発のプラクティスに基づいた取り組みの提案や実践
+- 企業文化であるペアプロ/TDDによる開発
+- 1on1 によるチームメンバーの目標設定や育成、コーチング
+
+##### 2021/10 - 2021/12 : 企業データの拡充
+
+企業サプライヤから提供される法人データの定期取り込みの拡充
+
+|領域|使用技術|バージョン|
+|:----|:----|:----|
+|Backend|Java|8|
+|Backend|Spring Batch|4.x|
+
+- Spring Batchを用いた外部APIサービスによるデータ取り込み
 
 ##### 2020/05 - 2020/10  : ターゲットリスト機能の作成
 
-### 2011/04 - 2020/02 : TIS株式会社 	
+業界やシナリオ、スコア等からターゲット顧客のセグメントを作成する機能
+
+|領域|使用技術|バージョン|
+|:----|:----|:----|
+|Frontend|Vue.js|2.6.x|
+|Backend|Java|8 / 11|
+|Backend|Kotlin|1.4.x|
+|Backend|Spring Boot|2.4.x|
+|Infra|Amazon Elasticsearch Service|-|
+
+- Frontendにおけるコンポーネント責務配置の設計・実装
+- stateが深く絡みついている複雑度の高いコンポーネント群のリファクタリング
+- マイクロサービスにおける責務設計と、再利用性の高いREST APIの設計・実装
+
+##### 2020/02 - 2020/04 : アプリケーション監視基盤の設計
+
+AWS上のアプリケーション/インフラ群を監視するための構成設計
+
+|領域|使用技術|バージョン|
+|:----|:----|:----|
+|Middleware|Fluent Bit / FireLens|-|
+|Monitoring|Datadog|-|
+|Monitoring|Amazon CloudWatch|-|
+
+- EC2 から ECS / Fargate構成への移行に伴う監視基盤の検討
+- 自作Shellでのアラート通知や、目視でのログ確認の運用を改善
+
+
+### ■ 2020/02 - 2020/09 (副業) :  P社
+
+#### 職務内容
+
+職務: Full-Stack Engineer (Technical Leader)
+
+##### 2020/02 - 2020/09 : 発音検定試験WEB
+
+英語発音検定試験WEBにおけるアプリケーション/インフラの設計・実装
+
+|領域|使用技術|バージョン|
+|:----|:----|:----|
+|Frontend|Vue.js|2.6.x|
+|Backend|Java|11|
+|Backend|Spring Boot|2.3.x|
+|IaC|Terraform|0.13.x|
+|Infra|AWS (ECS/Fargate)|-|
+
+- Frontend/Backend/採点バッチおよびインフラの設計と構築
+- CIおよびデリバリーのPipeline構築（GitLab CI / AWS Codepipeline）
+
+### ■ 2011/04 - 2020/02 : TIS株式会社 	
 
 #### 職務内容
 
@@ -149,8 +261,9 @@ BtoBのマッチングに関するWebアプリケーション
 |:----|:----|:----|
 |Frontend|React|16.x|
 |Backend|Java|11|
-|〃|Spring Boot|2.2.x|
-|Infra|Terraform|0.12.x|
+|Backend|Spring Boot|2.2.x|
+|IaC|Terraform|0.12.x|
+|Infra|AWS (ECS/Fargate)|-|
 
 職務: Full-Stack Engineer (Technical Leader)
 
@@ -165,7 +278,7 @@ BtoBのマッチングに関するWebアプリケーション
 |領域|使用技術|バージョン|
 |:----|:----|:----|
 |Backend|Java|8|
-|〃|[Nablarch](https://github.com/nablarch)|5u13|
+|Backend|[Nablarch](https://github.com/nablarch)|5u13|
 
 職務: 技術全般の主担当、プロジェクト運営のアドバイザー
 
@@ -179,7 +292,7 @@ BtoBのマッチングに関するWebアプリケーション
 |領域|使用技術|バージョン|
 |:----|:----|:----|
 |Backend|Java|8|
-|〃|[Enkan](https://github.com/kawasima/enkan)|0.6.0-beta1|
+|Backend|[Enkan](https://github.com/kawasima/enkan)|0.6.0-beta1|
 
 職務: 技術全般の主担当、プロジェクト運営のアドバイザー
 
@@ -193,7 +306,7 @@ BtoBのマッチングに関するWebアプリケーション
 |領域|使用技術|バージョン|
 |:----|:----|:----|
 |Backend|Java|8|
-|〃|[Enkan](https://github.com/kawasima/enkan)|0.1.2|
+|Backend|[Enkan](https://github.com/kawasima/enkan)|0.1.2|
 
 職務: 技術全般の主担当、プロジェクト運営のアドバイザー
 
@@ -206,8 +319,8 @@ BtoBのマッチングに関するWebアプリケーション
 |領域|使用技術|バージョン|
 |:----|:----|:----|
 |Backend|Java|8|
-|〃|Spring Boot|1.3.x / 1.4.x / 1.5.x / 2.0.x|
-|〃|r2framework|-|
+|Backend|Spring Boot|1.3.x / 1.4.x / 1.5.x / 2.0.x|
+|Backend|r2framework|-|
 
 職務: Backend Engineer (Team Member/Leader)
 
@@ -222,7 +335,7 @@ BtoBのマッチングに関するWebアプリケーション
 |領域|使用技術|バージョン|
 |:----|:----|:----|
 |Backend|Java|8|
-|〃|Spring Boot|1.3.x|
+|Backend|Spring Boot|1.3.x|
 
 職務: 技術全般のアドバイザー
 
@@ -233,9 +346,9 @@ BtoBのマッチングに関するWebアプリケーション
 
 |領域|使用技術|バージョン|
 |:----|:----|:----|
-|Frontend/Backend|Java|8|
-|Frontend|JavaFX|8|
-|〃|jQuery|2.x.x|
+|Frontend|Java / JavaFX|8|
+|Frontend|jQuery|2.x.x|
+|Backend|Java|8|
 |Backend|Jersey|-|
 
 職務: Front/Backend Engineer
@@ -250,7 +363,7 @@ BtoBのマッチングに関するWebアプリケーション
 |:----|:----|:----|
 |Frontend|jQuery|2.x.x|
 |Backend|Java|7|
-|〃|Seasar2|2.4.x|
+|Backend|Seasar2|2.4.x|
 
 職務: Front/Backend Engineer
 
@@ -265,7 +378,7 @@ BtoBのマッチングに関するWebアプリケーション
 |:----|:----|:----|
 |Frontend|jQuery / jQuery Mobile|1.x.x|
 |Backend|Java|7|
-|〃|Seasar2|2.x.x|
+|Backend|Seasar2|2.x.x|
 
 職務: Front/Backend Engineer
 
@@ -278,14 +391,3 @@ BtoBのマッチングに関するWebアプリケーション
     - 自分が書いた自慢したいコードを共有する勉強会を運営した
     - 先輩3人と新卒3人のチームで、互いにレベル差を感じていたため提案して開催した
     - フレームワークやWEBの基礎知識をここで身につけた
-
----
-
-#### 副業
-- 動画マーケティング会社
-    - 管理者WEBシステムの構築
-        - Ruby
-        - Ruby on Rails
-    - VAST動画広告のフロントエンドライブラリ作成
-        - TypeScript
-
