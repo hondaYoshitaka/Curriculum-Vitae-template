@@ -15,8 +15,8 @@ date: yyyy/mm/dd
 ## スキル
 
 - Webアプリケーションの開発
-    - フレームワークを利用した設計および開発10年
-    - サーバサイドだけでなく、フロントエンドの設計および開発8年
+    - フレームワークを利用した設計および開発10年以上
+    - サーバサイドだけでなく、フロントエンドの設計および開発10年以上
     - インフラ設計も中心設計者として経験し、チーム内でのIaC化を実現
 
 - チームビルディング/育成
@@ -34,18 +34,18 @@ date: yyyy/mm/dd
 
 #### Application
 
-|名称      |期間       |概要・経験 |
-|:--------|:---------|:---------|
-|Java|10年|・業務にてメイン言語として使用で経験豊富|
-|Kotlin|3年|・サーバサイドKotlin(Springと組み合わせ)<br/>・PoC案件にてAndroidアプリへの複数画面+機能を追加|
-|Groovy|2年|・Webアプリのunitテスト用言語として使用|
-|JavaScript|8年|・Webアプリの画面インタラクション<br/>・React/Next.js/Vue.jsと組み合わせて|
-|TypeScript|2年|・業務にてメイン言語として使用で経験豊富<br/>・副業にて使用<br/>・その他、自己学習|
-|Node.js|6ヶ月|・副業にて使用<br/>・その他、自己学習|
-|Go|3ヶ月|・A Tour of Goを1周<br/>・学習のため独学でツールを作成<br/>・コンテスト（ISUCON）での使用|
-|Ruby|2ヶ月|・副業にて使用|
-|Swift|2ヶ月|・PoC案件にてiOSアプリへの小さな機能を追加|
-|C|4年|・大学在学中に授業や研究にて使用<br/>・実務経験なし|
+|名称      | 期間    |概要・経験 |
+|:--------|:------|:---------|
+|Java| 10年以上 |・業務にてメイン言語として使用で経験豊富|
+|Kotlin| 5年    |・サーバサイドKotlin(Springと組み合わせ)<br/>・PoC案件にてAndroidアプリへの複数画面+機能を追加|
+|Groovy| 2年    |・Webアプリのunitテスト用言語として使用|
+|JavaScript| 10年以上 |・Webアプリの画面インタラクション<br/>・React/Next.js/Vue.jsと組み合わせて|
+|TypeScript| 3年    |・業務にてメイン言語として使用で経験豊富<br/>・副業にて使用<br/>・その他、自己学習|
+|Node.js| 6ヶ月   |・副業にて使用<br/>・その他、自己学習|
+|Go| 3ヶ月   |・A Tour of Goを1周<br/>・学習のため独学でツールを作成<br/>・コンテスト（ISUCON）での使用|
+|Ruby| 2ヶ月   |・副業にて使用|
+|Swift| 2ヶ月   |・PoC案件にてiOSアプリへの小さな機能を追加|
+|C| 4年    |・大学在学中に授業や研究にて使用<br/>・実務経験なし|
 
 #### IaS
 
@@ -97,6 +97,11 @@ date: yyyy/mm/dd
 ##### 結婚式（余興）
 - [夫婦の愛を支える技術](https://www.slideshare.net/yoshitakahonda/ss-69801308)
 
+##### コンテスト
+- ISUCON9 予選
+- ISUCON11 予選
+- ISUCON12 予選
+
 ### OB訪問
 #### Matcher
 - [本多 良隆さんのプロフィール | Matcher（マッチャー）](https://matcher.jp/obogs/49320a8fb447)
@@ -139,6 +144,22 @@ date: yyyy/mm/dd
 - アジャイル型開発のプラクティスに基づいた取り組みの提案や実践
 - 企業文化であるペアプロ/TDDによる開発
 - 1on1 によるチームメンバーの目標設定や育成、コーチング
+
+##### 2021/12 - 2022/03 : [分析レポート刷新](https://www.forcas.com/news/product-info/analytics-report-update/)
+
+狙うべきターゲット企業の特徴を可視化する「分析レポート機能」を刷新
+
+|領域|使用技術| バージョン |
+|:----|:----|:------|
+|Frontend|Vue.js| 3.2.x |
+|Backend|Java| 8, 11 |
+|Backend|Kotlin| 1.4.x |
+|Backend|Spring Boot| 2.4.x |
+|Infra|Amazon Elasticsearch Service| -     |
+
+- [Web Components](https://developer.mozilla.org/ja/docs/Web/Web_Components) を利用したFrontendの設計・実装
+- [Vite](https://ja.vitejs.dev/)を利用した、Frontendビルドの高速化
+- Clean Architectureの考え方をベースにしたFrontendコンポーネントの設計・実装（DIP・単方向依存）
 
 ##### 2021/04 - 2021/08 : [Salesforceレポート連携](https://www.uzabase.com/jp/news/forcas-salesforce-new-reportingfunction/)
 
